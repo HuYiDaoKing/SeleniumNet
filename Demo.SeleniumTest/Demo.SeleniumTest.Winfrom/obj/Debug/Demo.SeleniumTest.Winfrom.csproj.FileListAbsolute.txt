@@ -1,0 +1,12 @@
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest.Winfrom\bin\Debug\Demo.SeleniumTest.Winfrom.exe.config
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest.Winfrom\bin\Debug\Demo.SeleniumTest.Winfrom.exe
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest.Winfrom\bin\Debug\Demo.SeleniumTest.Winfrom.pdb
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest.Winfrom\bin\Debug\WebDriver.dll
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest.Winfrom\bin\Debug\WebDriver.Support.dll
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest.Winfrom\bin\Debug\WebDriver.xml
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest.Winfrom\bin\Debug\WebDriver.Support.xml
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest.Winfrom\obj\Debug\Demo.SeleniumTest.Winfrom.Form1.resources
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest.Winfrom\obj\Debug\Demo.SeleniumTest.Winfrom.Properties.Resources.resources
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest.Winfrom\obj\Debug\Demo.SeleniumTest.Winfrom.csproj.GenerateResource.Cache
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest.Winfrom\obj\Debug\Demo.SeleniumTest.Winfrom.exe
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest.Winfrom\obj\Debug\Demo.SeleniumTest.Winfrom.pdb

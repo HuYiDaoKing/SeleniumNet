@@ -1,0 +1,9 @@
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest\bin\Debug\Demo.SeleniumTest.dll
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest\bin\Debug\Demo.SeleniumTest.pdb
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest\bin\Debug\WebDriver.dll
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest\bin\Debug\WebDriver.Support.dll
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest\bin\Debug\WebDriver.xml
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest\bin\Debug\WebDriver.Support.xml
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest\obj\Debug\Demo.SeleniumTest.csprojResolveAssemblyReference.cache
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest\obj\Debug\Demo.SeleniumTest.dll
+E:\项目预演\自动化测试\Demo.SeleniumTest\Demo.SeleniumTest\obj\Debug\Demo.SeleniumTest.pdb
