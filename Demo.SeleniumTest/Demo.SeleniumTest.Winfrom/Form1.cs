@@ -36,11 +36,6 @@ namespace Demo.SeleniumTest.Winfrom
             driver.Url = "http://www.cnblogs.com/NorthAlan";
             var lnkAutomation = driver.FindElement(By.XPath(".//div[@id='sidebar_postcategory']/ul/li/a[text()='单元测试 - xUnit.Net(6)']"));
             lnkAutomation.Click();
-            //btnZzk
-            //var txtQ = driver.FindElement(By.Id("q"));
-            //txtQ.SendKeys("C#");
-            //var btnZzk = driver.FindElement(By.Id("btnZzk"));
-            //btnZzk.Click();
         }
         #endregion
     }
